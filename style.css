@@ -1,0 +1,27 @@
+/*
+  Theme Name: cjonasw-Timber-Twig-Example
+  Theme URI: https://github.com/cjonasw/
+  Description: cjonasw-Timber-Twig-Example
+  Version: 1
+  Author: Charlie Walter
+  Author URI: http://www.charliejwalter.net
+*/
+
+body{
+  background: #009344;
+  color: #263A2F;
+}
+
+body:after{
+  content: "timber";
+  font-size: 2em;
+  color: lime;
+}
+
+a{
+  color: white;
+}
+
+.pagination{
+  margin-top: 1em;
+}
